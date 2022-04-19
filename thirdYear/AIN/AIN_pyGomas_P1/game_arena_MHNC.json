@@ -1,0 +1,16 @@
+{
+    "host": "gtirouter.dsic.upv.es",
+    "manager": "manager_fraherfe",
+    "manager_password": "secret",
+    "service": "service_fraherfe",
+    "service_password": "secret",
+    "axis": [
+		{
+            "rank": "BDISoldier",
+            "name": "itIsWhatItIs_liagleen",
+            "password": "secret",
+            "amount": 2,
+            "asl": "hopefullySomewhatSmartFighter.asl"
+        }
+    ]
+  }

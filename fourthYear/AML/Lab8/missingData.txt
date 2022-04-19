@@ -1,0 +1,7 @@
+Reason min is 0
+Reason there are many instances over 21. 21 is the max
+month min is 0
+age min is 12, youngest can only be 17/18
+Distance has an oulier at 9000
+Distance has 17 instances equal to 0
+

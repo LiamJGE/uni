@@ -1,0 +1,16 @@
+{
+    "host": "localhost",
+    "manager": "m_liagleen",
+    "manager_password": "secret",
+    "service": "s_liagleen",
+    "service_password": "secret",
+    "axis": [
+		{
+            "rank": "BDISoldier",
+            "name": "soldier_liagleen",
+            "password": "secret",
+            "amount": 1,
+            "asl": "myHopefullySmartFighter.asl"
+        }
+    ]
+  }

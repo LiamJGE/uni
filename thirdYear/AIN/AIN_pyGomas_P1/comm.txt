@@ -1,0 +1,1 @@
+pygomas manager -j m@localhost -sj s@localhost -np 6 -m map_01

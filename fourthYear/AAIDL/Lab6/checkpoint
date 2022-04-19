@@ -1,0 +1,2 @@
+model_checkpoint_path: "finalModel.HDF5"
+all_model_checkpoint_paths: "finalModel.HDF5"
